@@ -1,0 +1,11 @@
+baycomp==1.0.3
+distfit==1.7.3
+imbalanced-learn==0.12.2
+keras==2.15.0
+lightgbm==4.3.0
+numpy==1.26.4
+pandas==2.2.2
+plotnine==0.13.5
+scikit-learn==1.2.2
+sktime==0.29.0
+statsmodels==0.14.2
